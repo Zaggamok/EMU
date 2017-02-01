@@ -1,0 +1,14 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" id="mod-img-large">
+	<tbody>
+		
+		<tr>
+			<td height="38" style="font-size:1px; line-height:1px;" class="em_height"><img src="7325126_spacer.gif" width="1" height="1" border="0" style="display:block;" contentid="46b30949-15677fef891-a7548a3fbbe3d9f8bac3b3472c6792ee" xt="SPIMAGE" spname="7325126_spacer.gif" alt="" name="7325126_spacer.gif" /></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top"><a xt="SPCLICK" name="__1" href="http://#" target="_blank" id="img_link"><img src="replace-me-lg.png" width="560" height="328" class="em_full_img" alt="Register for our latest data course module in house intermediate" style="display:block;" border="0" contentid="46b30949-1567814c825-a7548a3fbbe3d9f8bac3b3472c6792ee" xt="SPIMAGE" spname="replace-me-lg.png" name="replace-me-lg.png" title="Register for our latest data course module in house intermediate" id="img_loc" /></a></td>
+		</tr>
+		<tr>
+			<td height="40" style="font-size:1px; line-height:1px;" class="em_height"><img src="7325126_spacer.gif" width="1" height="1" border="0" style="display:block;" contentid="46b30949-15677fef891-a7548a3fbbe3d9f8bac3b3472c6792ee" xt="SPIMAGE" spname="7325126_spacer.gif" alt="" name="7325126_spacer.gif" /></td>
+		</tr>
+	</tbody>
+</table>

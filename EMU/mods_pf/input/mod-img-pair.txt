@@ -1,0 +1,83 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" id="mod-img-pair">
+	<tbody>
+		<tr>
+			<td valign="top">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+				<tbody>
+					<tr>
+						<td valign="top">
+						<table width="269" border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper">
+							<tbody>
+								<tr>
+									<td valign="top">
+									<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+										<tbody>
+											<tr>
+												<td align="center" valign="top"><a xt="SPCLICK" name="__2" href="http://#" target="_blank" id="img_link"><img src="template-image-smx189" width="269" height="189" style="display:block;" border="0" contentid="69cfff1e-1568bca5c97-c2a8af96738cc20073a7254c07aedd78" xt="SPIMAGE" spname="template-image-smx189" name="template-image-smx189" alt="" id="img_loc" /></a></td>
+											</tr>
+											<tr>
+												<td height="15" style="font-size:1px; line-height:1px;"><img src="7325142_spacer.gif" width="1" height="1" border="0" style="display:block;" contentid="46b30949-15677fef956-a7548a3fbbe3d9f8bac3b3472c6792ee" xt="SPIMAGE" spname="7325142_spacer.gif" alt="" name="7325142_spacer.gif" /></td>
+											</tr>
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 22px;"><span id="txt_sub">###subheading###</span></td>
+											</tr>
+											<tr>
+												<td height="7" style="font-size:1px; line-height:1px;"><img src="7325142_spacer.gif" width="1" height="1" border="0" style="display:block;" contentid="46b30949-15677fef956-a7548a3fbbe3d9f8bac3b3472c6792ee" xt="SPIMAGE" spname="7325142_spacer.gif" alt="" name="7325142_spacer.gif" /></td>
+											</tr>
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 21px;"><span id="txt_blurb">###body###</span></td>
+											</tr>
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 21px; color: rgb(223, 26, 35);"><a xt="SPBOOKMARK" name="_" href="#" target="_blank" style="text-decoration:none;color:#df1a23;" id="txt_CTA-URL"><span id="txt_CTA">###CTA###</span></a></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+							<!--[if gte mso 9]>
+								</td>
+								<td valign="top">
+							<![endif]-->
+						<table width="269" border="0" cellspacing="0" cellpadding="0" align="right" class="em_wrapper">
+							<tbody>
+								<tr>
+									<td valign="top" class="em_pad_top">
+									<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+										<tbody>
+											<tr>
+												<td align="center" valign="top"><a xt="SPCLICK" name="__3" href="http://#" target="_blank" id="img_link"><img src="template-image-smx189" width="269" height="189" style="display:block;" border="0" contentid="69cfff1e-1568bca5c97-c2a8af96738cc20073a7254c07aedd78" xt="SPIMAGE" spname="template-image-smx189" name="template-image-smx189" alt="" id="img_loc" /></a></td>
+											</tr>
+											<tr>
+												<td height="15" style="font-size:1px; line-height:1px;"><img src="7325142_spacer.gif" width="1" height="1" border="0" style="display:block;" contentid="46b30949-15677fef956-a7548a3fbbe3d9f8bac3b3472c6792ee" xt="SPIMAGE" spname="7325142_spacer.gif" alt="" name="7325142_spacer.gif" /></td>
+											</tr>
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 22px;"><span id="txt_sub">###subheading###</span></td>
+											</tr>
+											<tr>
+												<td height="7" style="font-size:1px; line-height:1px;"><img src="7325142_spacer.gif" width="1" height="1" border="0" style="display:block;" contentid="46b30949-15677fef956-a7548a3fbbe3d9f8bac3b3472c6792ee" xt="SPIMAGE" spname="7325142_spacer.gif" alt="" name="7325142_spacer.gif" /></td>
+											</tr>
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 21px;"><span id="txt_blurb">###body###</span></td>
+											</tr>
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 21px; color: rgb(223, 26, 35);"><a xt="SPBOOKMARK" name="_" href="#" target="_blank" style="text-decoration:none;color:#df1a23;" id="txt_CTA-URL"><span id="txt_CTA">###CTA###</span></a></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td height="55" style="font-size:1px; line-height:1px;" class="em_height"><img src="7325142_spacer.gif" width="1" height="1" border="0" style="display:block;" contentid="46b30949-15677fef956-a7548a3fbbe3d9f8bac3b3472c6792ee" xt="SPIMAGE" spname="7325142_spacer.gif" alt="" name="7325142_spacer.gif" /></td>
+		</tr>
+	</tbody>
+</table>
